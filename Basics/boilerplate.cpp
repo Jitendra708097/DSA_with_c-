@@ -8,4 +8,4 @@ int main()
 }
 
 // This is known as boilerplate code 
-// means jo code me itna code to likhna hi pdta hai
+// means har code me itna code to likhna hi pdta hai

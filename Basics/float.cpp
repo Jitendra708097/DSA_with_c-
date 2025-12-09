@@ -17,9 +17,9 @@ int main()
     int x = 57.585;
     if(x == 57.585)
     {
-        cout<<"es";
+        cout<<"Yes";
     }
     else{
-        cout<<"no";
+        cout<<"No";
     }
 }
