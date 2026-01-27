@@ -1,3 +1,7 @@
+// KMP stands for Knuth Morris Pratt.
+
+// Find longest prefix suffix from string.
+
 #include<iostream>
 #include<vector>
 using namespace std;
