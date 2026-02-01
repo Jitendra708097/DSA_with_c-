@@ -25,5 +25,7 @@ int main()
     }
     cout<<endl;
     cout<<" The size of vector : "<<v.size()<<endl;
+    cout<<v.capacity()<<endl;
 
+    // sort vector
 }
